@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prévention en Nouvelle-Calédonie</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+        }
+        h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Prévention en Nouvelle-Calédonie</h1>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>Prévention des Accidents</h2>
+            <p>Pour réduire les risques d'accidents, il est important de respecter les règles de sécurité, de conduire prudemment et d'être vigilant en toute circonstance. Assurez-vous de suivre les indications routières et d'utiliser les équipements de sécurité appropriés.</p>
+            <img src="accident.jpg" alt="Prévention des Accidents">
+        </div>
+        <div class="section">
+            <h2>Prévention des Incendies</h2>
+            <p>Pour prévenir les incendies, veillez à ne pas laisser des objets inflammables près des sources de chaleur. Assurez-vous que les systèmes de détection de fumée et d'incendie fonctionnent correctement et gardez des extincteurs à portée de main.</p>
+            <img src="incendie.jpg" alt="Prévention des Incendies">
+        </div>
+        <div class="section">
+            <h2>Fermetures de Magasins</h2>
+            <p>Tenez-vous informé des horaires de fermeture des magasins et des supermarchés pour éviter tout désagrément. Consultez régulièrement les annonces locales et les sites internet des commerces pour les mises à jour.</p>
+            <img src="magasin.jpg" alt="Fermetures de Magasins">
+        </div>
+        <div class="section">
+            <h2>Barrages et Routes Fermées</h2>
+            <p>Les barrages routiers peuvent survenir pour diverses raisons. Il est essentiel de rester informé des conditions de circulation en consultant les bulletins de la radio locale et les réseaux sociaux des autorités pour les mises à jour en temps réel.</p>
+            <img src="barrage.jpg" alt="Barrages et Routes Fermées">
+        </div>
+    </div>
+</body>
+</html>
